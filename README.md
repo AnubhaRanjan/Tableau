@@ -46,7 +46,7 @@ This dashboard is a combination of variety charts which tells following:
 	    Analytics tab to find average line. Creating parameter and calculated field to make chart interactive to used different KPIs like Total CY Sales, Total CY Profit and Total CY Quantity.
 
      
-[Link of the dashboard " Sales Interactive Dashboard":](https://public.tableau.com/app/profile/anubha.ranjan/viz/SalesInteractiveDashboard_16885774357810/Dashboard1?publish=yes)
+[Link to the dashboard " Sales Interactive Dashboard":](https://public.tableau.com/app/profile/anubha.ranjan/viz/SalesInteractiveDashboard_16885774357810/Dashboard1?publish=yes)
 
 
      
